@@ -1,11 +1,11 @@
 {
   "name": "nickisnoble",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A business card for Nick Noble (@nickisnoble)",
   "main": "/bin/card.js",
   "type": "module",
   "bin": {
-    "miniware": "./bin/card.js"
+    "nickisnoble": "./bin/card.js"
   },
   "repository": {
     "type": "git",
