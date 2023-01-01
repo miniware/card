@@ -1,18 +1,18 @@
 {
-  "name": "bitandbang",
-  "version": "3.0.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "miniware",
+  "version": "0.0.1",
+  "description": "A business card for Miniware (@madebyminiware)",
   "main": "/bin/card.js",
+  "type": "module",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "miniware": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/miniware/card.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://miniware.team",
   "scripts": {
-    "prepublish": "npm run build",
     "build": "node build.js",
     "dev": "npm run build && node ./bin/card.js",
     "lint": "standard"
@@ -25,19 +25,18 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Nick Noble <nick@miniware.team> (https://miniware.team)",
   "license": "MIT",
   "files": [
     "bin/card.js",
     "bin/output"
   ],
   "devDependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
-    "standard": "^12.0.1"
+    "boxen": "^6.1.0",
+    "chalk": "^5.2.0",
+    "standard": "^17.0.0"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
-  },
-  "dependencies": {}
+    "url": "https://github.com/miniware/card/issues"
+  }
 }

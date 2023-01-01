@@ -1,0 +1,25 @@
+{
+  "basics": {
+    "name": "MINIWARE",
+    "email": "nick@miniware.team",
+    "url": "https://miniware.team",
+    "summary": "Helping companies spend more time on their mission\nand less time on everything else.",
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "madebyminiware",
+        "url": "https://twitter.com/madebyminiware"
+      },
+      {
+        "network": "linkedIn",
+        "username": "madebyminiware",
+        "url": "https://www.linkedin.com/company/madebyminiware"
+      },
+      {
+        "network": "read.cv",
+        "username": "miniware",
+        "url": "https://read.cv/teams/miniware"
+      }
+    ]
+  }
+}
