@@ -15,7 +15,7 @@ import data from './resume.json' assert { type: 'json' }
 const options = {
   padding: 1,
   margin: 1,
-  borderStyle: 'classic'
+  width: 72
 }
 
 // Sections
@@ -25,14 +25,14 @@ const { basics } = data,
       { profiles } = basics
 
 const intro = [
-  chalk.hex("#ffcc00").bold.inverse(`${basics.name}`),
-  chalk.hex("#ffcc00").italic(`${basics.summary}`)
+  chalk.white.bold(`${basics.name}`),
+  chalk.hex("#999").italic(`${basics.summary}`)
 ].join("\n")
 
 const links = profiles.map( profile => {
   return [
-    chalk.gray.italic(`${profile.network}`),
-    chalk.white(`${profile.url}`)
+    chalk.white(`${profile.network}`),
+    chalk.gray.italic(`${profile.url}`)
   ].join("\n")
 }).join("\n\n")
 
@@ -46,5 +46,5 @@ const output = [
 
 writeFileSync(
   join(__dirname, 'bin/output'),
-  chalk.black( boxen(output, options) )
+  chalk.bgBlack( boxen(output, options) )
 )

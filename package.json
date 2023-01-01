@@ -1,6 +1,6 @@
 {
   "name": "nickisnoble",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A business card for Nick Noble (@nickisnoble)",
   "main": "/bin/card.js",
   "type": "module",
