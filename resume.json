@@ -1,25 +1,186 @@
 {
   "basics": {
-    "name": "MINIWARE",
+    "name": "Nick Noble",
+    "label": "Design++",
     "email": "nick@miniware.team",
     "url": "https://miniware.team",
-    "summary": "Helping companies spend more time on their mission\nand less time on everything else.",
+    "summary": "Huge nerd, specializing in being a generalist – I’ve been a waiter, designer, coder, fry cook, advisor, graphic artist, manager, taste-tester, speaker, sculpter, printer, actor, furniture mover, high school teacher, and just about everything in between. All of these jobs have one thing in common: an absurd amount of extra steps between you and what you woke up for.\n\nNow I’m on a personal mission: reduce the work between the work, wherever I can.\n\nI’m highly passionate about teaching, especially when it comes to helping others create better. That means collaboration, organizational design, and generally “how do people / groups get things out of their brain and into the world?” are things I think about every day.",
+    "location": {
+      "city": "Brooklyn",
+      "countryCode": "US",
+      "region": "New York"
+    },
     "profiles": [
       {
         "network": "twitter",
-        "username": "madebyminiware",
-        "url": "https://twitter.com/madebyminiware"
+        "username": "nickisnoble",
+        "url": "https://twitter.com/nickisnoble"
       },
       {
         "network": "linkedIn",
-        "username": "madebyminiware",
-        "url": "https://www.linkedin.com/company/madebyminiware"
+        "username": "nickisnoble",
+        "url": "https://www.linkedin.com/in/nickisnoble"
       },
       {
         "network": "read.cv",
-        "username": "miniware",
-        "url": "https://read.cv/teams/miniware"
+        "username": "nn",
+        "url": "https://read.cv/nn"
+      }
+    ],
+    "work": [
+      {
+        "name": "Miniware",
+        "position": "Founder",
+        "startDate": "2021-02-28",
+        "endDate": "",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/madebyminiware/",
+        "location": "Brooklyn, New York, United States"
+      },
+      {
+        "name": "Thesis",
+        "position": "Senior Director, Integration ",
+        "startDate": "2022-02-28",
+        "endDate": "",
+        "highlights": [],
+        "summary": "• Leading post-acquisition reorganization of all teams within Barrington Media (acquired @Thesis in 2021). Driving alignment between C-Suite & departmental leadership to develop a scalable operating model.\n• Maintaining the roadmap for internal projects including rebranding, content marketing, core technology, new processes, and major changes.\n• Designing and developing internal tools for tracking KPIs and mapping structural and collaborative relationships across orgs.\n• Building and refining teams for optimal outcomes, employee retention, and team compatibility, including cross-functional manager training, onboarding staff, and dynamic reteaming.",
+        "url": "https://www.linkedin.com/company/thesistesting/"
+      },
+      {
+        "name": "Thesis",
+        "position": "VP, Creative & Design",
+        "startDate": "2020-11-30",
+        "endDate": "2022-01-31",
+        "highlights": [],
+        "summary": "• Spearheaded the creation of a highly strategic Studio Services vertical, taking social creative & content production from 0 to 1. Hand selected and recruited all staff, oversaw the acquisition and build out of a physical video production space. \n• Scaled the team by 3x by recruiting, training, and mentoring top video, design, and operational talent from associate to director levels.\n• Devised, implemented, documented, and maintained more scalable and repeatable processes across studio, post production, UGC, and design — including the procurement and onboarding of Frame.io, drastically increasing efficiency and effectiveness of collaboration for remote video and creative teams.\n• Launched content marketing initiatives including a new blog property, instagram, and video content. \n• Maintained the highest staff retention rate at the company, including reports of reports.\n• Instilled a culture of data + critique driven iteration, ensuring teams and individual designers and creatives kept standards elevated.\n• Published transparent career paths and skills matrices for every role across my department.\n• Held monthly 1:1s with every member of the department.\n• Spearheaded a company wide reorganization into cross-functional, agile teams. Wrote documentation, trained management, and built teams.",
+        "url": "https://www.linkedin.com/company/thesistesting/"
+      },
+      {
+        "name": "Thesis",
+        "position": "Head Of Design",
+        "startDate": "2019-09-30",
+        "endDate": "2020-11-30",
+        "highlights": [],
+        "summary": "• Led the Design team, scaled headcount by 5x and output by ~20x. \n• Developed methods for creating and maintaining 50+ design systems at scale.\n• Facilitated and implemented company-wide cross training programs for all Thesis staff, with a focus on new employees. This included lunch & learns, 30/60/90 development plans, training on essential workplace tools such as Notion, and technical onboarding for proprietary platforms and frameworks.\n• Pioneered and launched a more inclusive hiring process for design, by removing barriers such as educational requirements or portfolios at the application stage, to broaden opportunities for a wider range of skill-based talent.",
+        "url": "https://www.linkedin.com/company/thesistesting/",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "name": "Thesis",
+        "position": "Lead Designer",
+        "startDate": "2019-03-31",
+        "endDate": "2019-09-30",
+        "highlights": [],
+        "summary": "• Collaborated with Engineering and CRO functions to create improved project management processes, with more accurate measurement of KPIs for velocity, quality, and capacity.\n• Built or bought tools that drastically increased design efficiency and quality, while reducing cost by thousands of dollars per month, such as migrating the team to Figma.\n• Document and democratized processes, championing autonomy, high standards, and accessibility for designers and those who interacted with design.",
+        "url": "https://www.linkedin.com/company/thesistesting/",
+        "location": "Brooklyn"
+      },
+      {
+        "name": "Thesis",
+        "position": "Lead Frontend Engineer",
+        "startDate": "2018-09-30",
+        "endDate": "2019-03-31",
+        "highlights": [],
+        "summary": "• Founding member of the engineering team. Architected Thesis core technology including the Thesis Pattern Library (landing page layout, variation, and brand layer), and Thesis Form (core quiz & survey engine). \n• Automated the creation of new client applications, saving days per instance.\n• Codified and automated aspects of the Thesis employee onboarding process, including the setup and securing of employee machines, walking through documentation and codebases, and .\n• Built and scaled teams including Infra (formed from existing team members) and Engineering (hired and scaled team from 4 to 16 headcount in 7 months).\n• Defined and configured core DevOps processes including code review, CI, hosting (Heroku, Vercel)",
+        "url": "https://www.linkedin.com/company/thesistesting/",
+        "location": "Brooklyn, NY"
+      },
+      {
+        "name": "Nick Noble Works",
+        "position": "Freelance Design + Code + Consulting",
+        "startDate": "2014-07-31",
+        "endDate": "2018-09-30",
+        "highlights": [],
+        "summary": "Helped companies big and small make the most of their products. I still consult from time to time.\n\nSelect clients include: HBO / Blown Deadline Productions, The Ogden Museum, The 1912 Center, DJ-Sun, Friendship Co, PDK International, Two More Minutes, Startup Weekend, and many others.",
+        "url": "https://www.linkedin.com/company/nick-noble/",
+        "location": "Brooklyn, NY"
+      },
+      {
+        "name": "HBO",
+        "position": "Graphic Artist (IATSE 829)",
+        "startDate": "2011-11-30",
+        "endDate": "2018-09-30",
+        "highlights": [],
+        "summary": "Produced large volumes of digital and print graphics for props and set dressing, as well as typographic consulting, for shows including Treme, Show Me a Hero, The Deuce, and The Plot Against America.",
+        "url": "https://www.linkedin.com/company/hbo/"
+      },
+      {
+        "name": "Netflix",
+        "position": "Graphic Artist (IATSE 829)",
+        "startDate": "2017-12-31",
+        "endDate": "2018-12-31",
+        "highlights": [],
+        "summary": "Produced large volumes of digital and print graphics for props and set dressing for projects including The Irishman and MANIAC.",
+        "url": "https://www.linkedin.com/company/netflix/",
+        "location": "Greater New York City Area"
+      },
+      {
+        "name": "nclud",
+        "position": "Interaction Designer",
+        "startDate": "2014-01-31",
+        "endDate": "2014-07-31",
+        "highlights": [],
+        "summary": "Designed and coded for world class clients. Kicked off a successful company rebrand. Learned a lot from the best of the best of the best!",
+        "url": "https://www.linkedin.com/company/nclud/"
+      },
+      {
+        "name": "Dinner Lab INC",
+        "position": "User Experience & Interface Designer",
+        "startDate": "2013-10-31",
+        "endDate": "2014-01-31",
+        "highlights": [],
+        "summary": "Built a custom, modular front end pattern library, like lego for web look and feel. In the process I was able to revamp the digital portion of the brand, creating a distinct color and type system that was used throughout the life of the product.",
+        "url": "",
+        "location": "Greater New Orleans Area"
+      },
+      {
+        "name": "CBS Corporation",
+        "position": "Graphic Art Lead on CBS's Second Sight Pilot",
+        "startDate": "2013-03-31",
+        "endDate": "2013-04-30",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/cbs-com/",
+        "location": "New Orleans"
+      },
+      {
+        "name": "Lanyap Creative",
+        "position": "Creative Director",
+        "startDate": "2013-12-31",
+        "endDate": "2013-12-31",
+        "highlights": [],
+        "summary": "Oversight and execution of various projects in various mediums, including fully custom websites (various CMSs or static), animations, large scale events, and brand identities.\n\nLanyap stopped being an agency and evolved into NOLATech Week, which is still going strong.",
+        "url": "https://www.linkedin.com/company/lanyap-creative/"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Baltimore School for the Arts",
+        "name": "Interactive Storytelling Curriculum",
+        "position": "Adjunct Faculty",
+        "highlights": [
+          "Designed and piloted Baltimore School for the Arts' first ever coding curriculum, 'Interactive Storytelling' in their Fall 2018 semester. They still run this program."
+        ],
+        "startDate": "2018-08-31",
+        "endDate": "2019-01-31"
       }
     ]
+  },
+  "certificates": [
+    {
+      "name": "Notion Certified",
+      "issuer": "Notion",
+      "startDate": "2022-03-31",
+      "url": "https://www.credly.com/badges/7254b56f-1549-4970-b7a7-abec0501a6ff/public_url"
+    }
+  ],
+  "references": [
+    {
+      "name": "William Mitchell",
+      "reference": "Nick Noble steps into any situation with confidence. He is not only highly technically qualified but also he holds a deep knowledge of design. I’ve seen him carve his own path in the industry teaching himself the skills needed to succeed and grow. He’s a smart charming character who isn’t afraid to say it how it is."
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
   }
 }

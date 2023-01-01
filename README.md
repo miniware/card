@@ -1,16 +1,14 @@
-MINIWARE INFO
-
 # Usage
 
 ## npm
 ```
-npx miniware
+npx nickisnoble
 ```
 
 ## GitHub Package Registry
 Assuming you have the GitHub registry set up, you can use via npx:
 ```
-npx @miniware/card
+npx @nickisnoble/card
 ```
 
 ## Forking

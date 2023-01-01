@@ -1,7 +1,7 @@
 {
-  "name": "miniware",
+  "name": "nickisnoble",
   "version": "0.0.1",
-  "description": "A business card for Miniware (@madebyminiware)",
+  "description": "A business card for Nick Noble (@nickisnoble)",
   "main": "/bin/card.js",
   "type": "module",
   "bin": {
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miniware/card.git"
+    "url": "git+https://github.com/nickisnoble/card.git"
   },
-  "homepage": "https://miniware.team",
+  "homepage": "https://nicknoble.works",
   "scripts": {
     "build": "node build.js",
     "dev": "npm run build && node ./bin/card.js",
@@ -37,6 +37,6 @@
     "standard": "^17.0.0"
   },
   "bugs": {
-    "url": "https://github.com/miniware/card/issues"
+    "url": "https://github.com/nickisnoble/card/issues"
   }
 }
