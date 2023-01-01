@@ -25,14 +25,16 @@ const { basics } = data,
       { profiles } = basics
 
 const intro = [
-  chalk.white.bold(`${basics.name}`),
-  chalk.hex("#999").italic(`${basics.summary}`)
+  chalk.white.bold(basics.name),
+  chalk.hex("#999").italic(basics.summary),
 ].join("\n")
+
+const homepage = [chalk.white("site"), chalk.gray.italic(basics.url)].join("\n")
 
 const links = profiles.map( profile => {
   return [
-    chalk.white(`${profile.network}`),
-    chalk.gray.italic(`${profile.url}`)
+    chalk.white(profile.network),
+    chalk.gray.italic(profile.url)
   ].join("\n")
 }).join("\n\n")
 
@@ -41,6 +43,7 @@ const command = chalk.white('npx miniware')
 // Join each section into a single string for boxen
 const output = [
   intro,
+  homepage,
   links
 ].join("\n\n")
 
